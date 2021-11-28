@@ -11,7 +11,7 @@ public class FlagLoopEx3 {
 			 else if ((i%2) != 0)
 			    System.out.println(i+ "value i%2= " + i%2);
 			 i++;
-		    } while(i<100);
+		    } while(i<10);
 
 	}
 
