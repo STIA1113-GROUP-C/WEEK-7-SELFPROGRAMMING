@@ -1,0 +1,10 @@
+Enter an Integer, or -1 to stop: 1
+INSIDE LOOPING
+Enter an Integer, or -1 to stop: -5
+Sentinel value detected. Good Bye.
+INSIDE LOOPING
+Enter an Integer, or -1 to stop: 0
+Sentinel value detected. Good Bye.
+INSIDE LOOPING
+Enter an Integer, or -1 to stop: -1
+Sentinel value detected. Good Bye.
